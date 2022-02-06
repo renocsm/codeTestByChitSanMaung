@@ -81,8 +81,8 @@ namespace NetStarter
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1",
-                    Title = "MKTrading Web Application",
-                    Description = "Web API For MK trading",
+                    Title = "EVoucher Application",
+                    Description = "Web API For EVoucher",
                     TermsOfService = new Uri("https://example.com/terms"),
                     Contact = new OpenApiContact
                     {
