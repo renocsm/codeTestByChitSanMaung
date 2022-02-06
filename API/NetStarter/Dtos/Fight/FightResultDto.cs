@@ -1,0 +1,9 @@
+﻿using System.Collections.Generic;
+
+namespace NetStarter.Dtos.Fight
+{
+    public class FightResultDto
+    {
+        public List<string> Log { get; set; } = new List<string>();
+    }
+}
